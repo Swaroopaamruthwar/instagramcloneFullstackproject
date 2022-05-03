@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+.modal-footer{
+    margin:10px;
+    padding:0px;
+}
+.battn{
+    margin:10px;
+    padding:6px;
+    background-color: #ebe9e8;
+    border-radius: 4px;
+    border-width: thin;
+
+}
